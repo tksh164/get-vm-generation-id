@@ -1,5 +1,7 @@
 # get-vm-generation-id
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/get-vm-generation-id)
+
 This code based on the sample code in [Virtual machine generation identifier](https://docs.microsoft.com/en-us/windows/win32/hyperv_v2/virtual-machine-generation-identifier).
 
 ```
